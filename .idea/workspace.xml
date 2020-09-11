@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae85ef33-4c56-41db-8413-6543e0a71438" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../go1.15.2" />
+  <component name="ProjectId" id="1hMesnyG1NUy83nEh8UpqnqpF3t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="319" y="325" width="400" height="334" key="#Go_Modules" timestamp="1599826636635">
+      <screen x="72" y="27" width="1848" height="923" />
+    </state>
+    <state x="319" y="325" width="400" height="334" key="#Go_Modules/72.27.1848.923@72.27.1848.923" timestamp="1599826636635" />
+    <state x="72" y="123" width="1022" height="737" key="SettingsEditor" timestamp="1599826067074">
+      <screen x="72" y="27" width="1848" height="923" />
+    </state>
+    <state x="72" y="123" width="1022" height="737" key="SettingsEditor/72.27.1848.923@72.27.1848.923" timestamp="1599826067074" />
+  </component>
+</project>
