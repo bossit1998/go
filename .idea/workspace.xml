@@ -51,13 +51,17 @@
       <screen x="72" y="27" width="1848" height="923" />
     </state>
     <state x="72" y="123" width="1022" height="737" key="SettingsEditor/72.27.1848.923@72.27.1848.923" timestamp="1599826067074" />
-    <state x="119" y="224" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599826827599">
+    <state x="119" y="224" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599827090657">
       <screen x="72" y="27" width="1848" height="923" />
     </state>
-    <state x="119" y="224" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.923@72.27.1848.923" timestamp="1599826827599" />
-    <state x="328" y="400" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1599826747789">
+    <state x="119" y="224" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.923@72.27.1848.923" timestamp="1599827090657" />
+    <state x="305" y="403" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599827184275">
       <screen x="72" y="27" width="1848" height="923" />
     </state>
-    <state x="328" y="400" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog/72.27.1848.923@72.27.1848.923" timestamp="1599826747789" />
+    <state x="305" y="403" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1848.923@72.27.1848.923" timestamp="1599827184275" />
+    <state x="328" y="400" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1599827277254">
+      <screen x="72" y="27" width="1848" height="923" />
+    </state>
+    <state x="328" y="400" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog/72.27.1848.923@72.27.1848.923" timestamp="1599827277254" />
   </component>
 </project>
