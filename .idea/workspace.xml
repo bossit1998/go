@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae85ef33-4c56-41db-8413-6543e0a71438" name="Default Changelist" comment="init" />
+    <list default="true" id="ae85ef33-4c56-41db-8413-6543e0a71438" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/client.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/server.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +60,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <option name="LAST_COMMIT_MESSAGE" value="init" />
@@ -51,14 +84,14 @@
       <screen x="72" y="27" width="1848" height="923" />
     </state>
     <state x="72" y="123" width="1022" height="737" key="SettingsEditor/72.27.1848.923@72.27.1848.923" timestamp="1599826067074" />
-    <state x="119" y="224" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599827933165">
+    <state x="119" y="224" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599828074117">
       <screen x="72" y="27" width="1848" height="923" />
     </state>
-    <state x="119" y="224" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.923@72.27.1848.923" timestamp="1599827933165" />
-    <state x="305" y="403" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599827184275">
+    <state x="119" y="224" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.923@72.27.1848.923" timestamp="1599828074117" />
+    <state x="305" y="403" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599827999936">
       <screen x="72" y="27" width="1848" height="923" />
     </state>
-    <state x="305" y="403" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1848.923@72.27.1848.923" timestamp="1599827184275" />
+    <state x="305" y="403" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1848.923@72.27.1848.923" timestamp="1599827999936" />
     <state x="328" y="400" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1599827994891">
       <screen x="72" y="27" width="1848" height="923" />
     </state>

@@ -1,4 +1,4 @@
-module github.com/bossit98/go_tutorial
+module github.com/bossit1998/go
 
 go 1.15
 
